@@ -1,3 +1,3 @@
-Git is a distributed version control system.
+锘縂it is a distributed version control system.
 Git is free softwere under the GPL.
-说点什么好呢
+瀹変繚璐瑰崱绀句細
